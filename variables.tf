@@ -15,3 +15,4 @@ variable "mysql_image" {
   default     = "mysql:5.7"
   description = "MySQL user password."
 }
+
